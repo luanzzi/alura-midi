@@ -1,12 +1,12 @@
 :root {
-    --cinza: #aaa;
+    --cinza: #4d4949;
     --branca: hsl(0, 0%, 100%);
     --meio-branca: #ebebeb;
     --roxo: #8d2faa;
-    --luz: rgb(255, 181, 218);
-    --preto:#000000;
-    --rosio:#ffdfed;
-    --rosium:#ff6db6;
+    --luz: rgb(139, 22, 81);
+    --preto:#c52323;
+    --rosio:#dffff0;
+    --rosium:#bbbb0e;
   }
   
   body {
